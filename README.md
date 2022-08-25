@@ -12,7 +12,9 @@ The challenge is simple, create a registration for the KE Web App of these exact
 4. You can change the colour, style, position of text boxes etc, but the UI should look nice and make sense
 5. No copying from other people
 6. Each individual React component should be in its own file and imported in the main layout.
-7. `Most importantly`, code should compile without any error.
+7. *Most importantly*, code should compile without any error.
+8. When the user selects the Block, the Block Selected should be changed to the latest block selected as well
+9. When the submit button is pressed, a function should be activated on click and change all of the `Your [] is: []` to reflect the current input using States
 
 ### Additional Instructions:
 1. Due Date: Week 7 of AY22/23 Semester 1
@@ -23,4 +25,5 @@ The challenge is simple, create a registration for the KE Web App of these exact
 3. Create a new folder and label it with your name eg. james
 4. Copy the files in the `template` folder into your individual folder
 5. Complete the challenge
-6. Open a pull request back into the main Github repository for your submission
+6. Write down your name in the page as well under the `This challenge is completed by: []` 
+7. Open a pull request back into the main Github repository for your submission
